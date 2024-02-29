@@ -1,4 +1,4 @@
-# Speed-Safe
+# Corner-Safe
 Python script that enhances road safety by analyzing driving routes in real-time. Utilizing the Google Maps API, identifies sharp corners and color-codes the route to indicate varying degrees of curvature. Allows drivers to anticipate turns and adjust their speed, providing insight into road conditions.
 # Under Development
 This is the first instance of the program, I will aim to run it alongside google maps eventually, so the cornering information is visible whilst nav mode is on.
